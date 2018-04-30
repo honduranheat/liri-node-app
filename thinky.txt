@@ -1,0 +1,22 @@
+Still Need
+-Twitter
+    Retreive just text from tweets
+
+var spotifyThis = function () {
+
+}
+
+var movieThis = function () {
+
+}
+
+var doWhatItSays = function () {
+
+}
+
+     if (command = 'my tweets') { 
+         show 20 tweets}
+
+     if (command = 'spotify-this-song') {
+         show artist song name preview of song album
+     }
